@@ -199,8 +199,7 @@ Used to determine the optimal K using the Elbow Method.
 
 ## 📋 Cluster Explorer
 
-![Cluster Explorer](Screenshots/Screenshot%202026-06-25%20140828.png)
-
+![Cluster Explorer](Screenshots/Cluster%Explorer.png)
 ---
 
 
