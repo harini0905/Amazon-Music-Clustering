@@ -179,33 +179,30 @@ Used to determine the optimal K using the Elbow Method.
 
 # 📷 Streamlit Application Screenshots
 
-# 📷 Streamlit Application Screenshots
-
 ## 🏠 Home Page
 
-![Home Page](Screenshots/home_page.png)
+![Home Page](Screenshots/Home%20Page.png)
 
 ---
 
 ## 📊 PCA Visualization
 
-![PCA Visualization](Screenshots/pca_visualization.png)
+![PCA Visualization](Screenshots/PCA%20Visualization.png)
 
 ---
 
 ## 🎯 Cluster Analysis
 
-![Cluster Analysis](Screenshots/cluster_analysis.png)
+![Cluster Analysis](Screenshots/Cluster%20Analysis.png)
 
 ---
 
-## 🔍 Cluster Explorer
+## 📋 Cluster Explorer
 
-![Song Search](Screenshots/cluster_explorer.png)
-
----
+![Cluster Explorer](Screenshots/Screenshot%202026-06-25%20140828.png)
 
 ---
+
 
 # 📁 Project Structure
 
