@@ -229,6 +229,11 @@ AMAZON MUSIC CLUSTERING PROJECT/
 ```
 
 ---
+## 📂 Dataset
+
+The songs_clustered.csv  dataset is not included in this repository due to its large size. 
+
+---
 
 # ▶️ Running the Project
 
